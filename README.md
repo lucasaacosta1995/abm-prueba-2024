@@ -1,8 +1,6 @@
-# Laravel 9 con Platilla AdminLTE 
+# Laravel 9 con Platilla AdminLTE para abm de productos y servicios
 
 ## Comenzando 🚀
-
-_Sigue las siguientes instruscciones para clonar este repositorio en tu máquina local y poder trabajar desde el principio con la plantilla AdminLTE en Laravel 9._
 
 ### Pre-requisitos 📋
 
@@ -37,7 +35,7 @@ _Sigue las siguientes instrucciones para clonar el repositorio_
 _Clone el repositorio_
 
 ```
-git clone https://github.com/jorgehernandezch/Laravel-9-AdminLTE.git
+git clone https://github.com/lucasaacosta1995/abm-prueba-2024.git
 ```
 
 _Instale todas las dependencias del Proyecto con_
@@ -97,6 +95,3 @@ php artisan serve
 _Si todo está correcto puede acceder al proyecto en la dirección http://localhost:8000_ con el Usuario admin@admin.com - Admin
 
 
----
-[Jorge Edo. Hernández](https://github.com/jorgehernandezch)  
-_Ingeniero y Desarrollador Web_
